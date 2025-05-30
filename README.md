@@ -4,7 +4,7 @@ Jio Sava is a simple, Spotify-inspired music web application built using HTML, C
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live app](https://yourusername.github.io/jio-sava)
+👉 [Click here to view the live app](https://dahiwalyogesh.github.io/Jio-saavan/)
 
 ## 💡 Features
 
