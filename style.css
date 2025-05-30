@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #121212;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
+
+header h1 {
+  font-size: 3rem;
+  color: #1DB954;
+}
+
+header p {
+  font-size: 1.2rem;
+  color: #ccc;
+}
+
+.container {
+  margin-top: 40px;
+}
+
+.album-art {
+  width: 200px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.button {
+  background-color: #1DB954;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border-radius: 25px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.button:hover {
+  background-color: #1ed760;
+}
